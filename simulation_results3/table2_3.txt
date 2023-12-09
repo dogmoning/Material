@@ -1,2 +1,0 @@
-"test_power1" "time1" "test_power2" "time2" "test_power3" "time3"
-"1" 1e-05 3.95362901687622 1e-05 1.485202952226 5e-05 1.27266167806254
